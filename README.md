@@ -1,0 +1,2 @@
+# .github
+Minekarta Studio
